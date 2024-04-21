@@ -1,0 +1,8 @@
+book_filename: "Tópicos Especiais em Eletrônica"
+rmd_files: ["corte_lase.Rmd",
+            "Impressora_3D.Rmd"]
+output_dir: "docs"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
